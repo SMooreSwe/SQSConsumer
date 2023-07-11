@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JW5ddYqBAJre+PBGakyGhsJ4UuZhrmLpSgNguW1pk7DuSgazPWc+35fYBLBSQqDeBgbEg3wwdcmF/Ct10F4HA==",
+  "success": true,
+  "projectFilePath": "/Users/salt-dev/salt/dotnet/aws/sqs/SqsConsumer/SqsConsumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/salt-dev/.nuget/packages/awssdk.core/3.7.107.11/awssdk.core.3.7.107.11.nupkg.sha512",
+    "/Users/salt-dev/.nuget/packages/awssdk.sqs/3.7.103.7/awssdk.sqs.3.7.103.7.nupkg.sha512"
+  ],
+  "logs": []
+}
